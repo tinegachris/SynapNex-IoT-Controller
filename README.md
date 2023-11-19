@@ -12,4 +12,5 @@
 
 >Device connecting the dots between 'synapses', 'nexus' and the device's functions.
 
+![SynapNex cover](https://github.com/tinegachris/SynapNex-IoT-Controller/assets/72353423/ba9811f2-902a-4f77-8a2d-db21926e63ed)
 
