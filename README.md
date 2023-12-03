@@ -44,13 +44,3 @@
 3. [Hardware Specifications](#hardware-specifications)
 4. [Contributing](#contributing)
 5. [License](#license)
-
-## 1
-
-## 2
-
-## 3
-
-## 4
-
-## 5
